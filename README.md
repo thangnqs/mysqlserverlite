@@ -1,1 +1,1 @@
-# mysqlserverlite
+# mysql lite setup
